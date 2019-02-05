@@ -13,7 +13,7 @@
 1. ESP32 will try pinging continuously to target PC.
 1. ESP32 will turn off the smart plug via IFTTT when receiving the pong.
 
-### Demonstration
+### Demonstration (in Japanese)
 
 **"OK Google, Turn on the PC."**
 
@@ -21,7 +21,7 @@
 
 ### Blog
 
-http://dsas.blog.klab.org/ (in Japanese)
+http://dsas.blog.klab.org/archives/2019-02/52304808.html (in Japanese)
 
 Thanks for 'ESP32_ping' Library by pbecchi.
 
