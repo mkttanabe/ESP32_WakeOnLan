@@ -17,7 +17,7 @@
 
 **"OK Google, Turn on the PC."**
 
-[![demo](http://livedoor.blogimg.jp/klab_gijutsu2/imgs/b/8/b8deb115.jpg)](https://www.youtube.com/watch?time_continue=51&v=GjL66kVmaro)
+[![demo](http://livedoor.blogimg.jp/klab_gijutsu2/imgs/b/8/b8deb115.jpg)](https://www.youtube.com/watch?v=GjL66kVmaro)
 
 ### Blog
 
